@@ -1,0 +1,7 @@
+model sensitivity
+toy 7.72
+u1 86.58
+u1_all 94
+tia1 92.6
+tia2 93.8
+tia3 93.2
